@@ -1,0 +1,6 @@
+
+
+<application
+
+    android:icon="@mipmap/ic_launcher"
+    android:roundIcon="@mipmape/ic_launcher_round" />
